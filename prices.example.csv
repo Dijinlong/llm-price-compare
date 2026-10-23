@@ -1,0 +1,7 @@
+﻿provider,model,currency,unit,input,output,cache_read,cache_write
+A厂,mdl-large,USD,per_1m,3.00,15.00,0.30,3.75
+B厂,mdl-large,CNY,per_1k,0.021,0.105,,
+C厂,mdl-large,USD,per_token,0.0000035,0.0000175,0.00000035,
+D厂,mdl-large,CNY,per_1m,1.60,8.00,0.16,
+E厂,mdl-large,USD,per_1m,2.10,10.50,0.21,2.63
+F厂,mdl-large,CNY,per_1k,0.012,0.048,,
