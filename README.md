@@ -120,3 +120,7 @@ prices.example.csv      示例数据
 - [`llm-price-compare`](https://github.com/Dijinlong/llm-price-compare) —— 把不同计价口径归一化成一张可比的表
 - [`llm-api-compat-check`](https://github.com/Dijinlong/llm-api-compat-check) —— OpenAI 兼容层的 5 项体检
 - [`llm-scheduler-demo`](https://github.com/Dijinlong/llm-scheduler-demo) —— 多货源派单：健康分 + 熔断 + 带探索的加权选择
+
+## 相关文章
+
+- [Claude、GPT、Gemini、DeepSeek API 价格对比（2026 年 11 月）](docs/api-price-comparison-202611.md) —— 8 家厂商代表模型的官方价与本站实付价对照。
